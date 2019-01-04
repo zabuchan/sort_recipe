@@ -10,14 +10,14 @@
     "sq-ft": 250,
     "price": 75
   },
-  { "room-number": 102,
+  { "room-number": 103,
     "use": "examination",
     "sq-ft": 125,
     "price": 150
   },
-  { "room-number": 103,
+  { "room-number": 102,
     "use": "examination",
-    "sq-ft": 125,/**/
+    "sq-ft": 125,
     "price": 150
   },
   { "room-number": 104,
